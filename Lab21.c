@@ -1,4 +1,4 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <math.h>
 
 
@@ -12,9 +12,9 @@ int main() {
 	dif =  b - a;
 	sum = a + b;
 
-printf("залишок від ділення 1-го числа на 2-е: %d\n", dil);
-printf("різницю 2-го і 1-го: %d\n", dif);
-printf("суму чисел: %d\n", sum);
+printf("Р·Р°Р»РёС€РѕРє РІС–Рґ РґС–Р»РµРЅРЅСЏ 1-РіРѕ С‡РёСЃР»Р° РЅР° 2-Рµ: %d\n", dil);
+printf("СЂС–Р·РЅРёС†СЋ 2-РіРѕ С– 1-РіРѕ: %d\n", dif);
+printf("СЃСѓРјСѓ С‡РёСЃРµР»: %d\n", sum);
 
   
 	return 0;
